@@ -12,5 +12,29 @@ The main goal of our project is to implement ‘MASK DETECTION SYSTEM’ and ‘
 * The notification system can be also used anywhere for database analysis of Covid Cases. Students, researchers, officers or anyone can use this for database and research purpose. This will also help for statistical analysis of records.
 * The image detection portion counts number of peoples from an chosen image from device and shows who are wearing mask and who are not. This system can be also used as attendance system along with following covid guidelines.
 
+# FUTURE SCOPES
+* This ‘Face Mask Detection’ system can be deployed in any public place or densely populated areas in checking area before entry for Covid-19 safety measures. It will increase awareness of the global pandemic situation and everyone will know the importance of wearing mask.
+* This system will make people follow the guidelines related Covid-19 and it will also make the situation better by decreasing the number of affected people.
+* Many important exams which are getting postponed affecting students’ careers. In future using this system many exams and other important tasks can be conducted avoiding any losses.
+* The global notification idea can be added in other systems and shown in public places through tv or computer to keep people updated and make them alert for their health.
+* The development ideas, AIML concepts and other knowledges, the global notification or database part will encourage students or researchers to increase their knowledges.
+* This system can be deployed and more updated to make a attendance system following covid guidelines.
+
+# FOLDER STRUCTURE
+     ├── .idea
+     ├── _pycache_  
+     ├── dataset
+     |      ├── with_mask
+     |      └── without_mask
+     ├── face_detector
+     ├── CoronaGlobalUpdatesGUI.py
+     ├── CovidUpdates.py
+     ├── Detection.py
+     ├── Training.py
+     ├── detectMask_image.py
+     ├── mask_detection_gui.py
+     ├── mask_detector.model
+     └── icons, background images, gifs, sounds etc.
+     
 
 # MADE BY SUBHAJIT PATI
