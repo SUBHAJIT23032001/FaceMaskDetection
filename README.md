@@ -46,7 +46,7 @@ Main GUI--> For the main canvas window GUI we have created mask_detection_gui.py
 detectMask_image--> This is created for the image detection function. So that clicking on the button image detection user will be given an option to choose a image file in .jpg, .png and .jpeg format from device storage. Here in this portion, we have loaded our models and applied the same logic as detection.py to detect if people are wearing masks or not. We have used filedialog module for browsing a particular image from storage. If file chosen then it starts detecting and also says “Detecting Start”. We have used pyttsx3 module for talking. After recognising the system also says “Finish Recognising”. Then it also says the “Total number of faces (the counted number) and also shows the number of people wearing mask and not wearing mask. Then it also shows as detection part if persons are wearing mask or not and shows the percentages. Thus, the system not only counts the faces from a choses image but also checks if they are wearing masks or not. The two main functions are imageDetection() and mask_check().
 
 # SCREENSHOTS
-<img src="https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/mask1.PNG" height="10" width="10">
+<img src="https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/mask1.PNG" height="100" width="100">
 
 
 
