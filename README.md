@@ -63,5 +63,14 @@ detectMask_image--> This is created for the image detection function. So that cl
   </tr>   
 </table>
 
+# DIAGRAMS
+
+![box](https://github.com/SUBHAJIT23032001/FaceMaskDetection/assets/109050396/20c086d1-8e7d-464b-9417-9df95ada8071)
+![graph](https://github.com/SUBHAJIT23032001/FaceMaskDetection/assets/109050396/1964c2ef-3217-4082-995a-7cbb28b0315d)
+![arc](https://github.com/SUBHAJIT23032001/FaceMaskDetection/assets/109050396/5044db8b-428d-44fa-b69f-c0ef91840894)
+
+![table](https://github.com/SUBHAJIT23032001/FaceMaskDetection/assets/109050396/7c2d2082-4927-4a36-be0f-81f3b90d56c2)
+
+
 
 # MADE BY SUBHAJIT PATI
