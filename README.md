@@ -47,9 +47,8 @@ detectMask_image--> This is created for the image detection function. So that cl
 
 # SCREENSHOTS
 <img src="https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/mask1.PNG" width="500"> <img src="https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/mask3.PNG" width="500">
-
-
-
+<img src="[https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/mask1.PNG](https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/det1.jpg)" width="500"> <img src="[https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/mask1.PNG](https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/det2.png)" width="500">
+<img src="https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/mask1.PNG" width="500"> <img src="https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/mask1.PNG" width="500">
 
 
 # MADE BY SUBHAJIT PATI
