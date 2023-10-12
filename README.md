@@ -46,9 +46,14 @@ Main GUI--> For the main canvas window GUI we have created mask_detection_gui.py
 detectMask_image--> This is created for the image detection function. So that clicking on the button image detection user will be given an option to choose a image file in .jpg, .png and .jpeg format from device storage. Here in this portion, we have loaded our models and applied the same logic as detection.py to detect if people are wearing masks or not. We have used filedialog module for browsing a particular image from storage. If file chosen then it starts detecting and also says “Detecting Start”. We have used pyttsx3 module for talking. After recognising the system also says “Finish Recognising”. Then it also says the “Total number of faces (the counted number) and also shows the number of people wearing mask and not wearing mask. Then it also shows as detection part if persons are wearing mask or not and shows the percentages. Thus, the system not only counts the faces from a choses image but also checks if they are wearing masks or not. The two main functions are imageDetection() and mask_check().
 
 # SCREENSHOTS
-<img src="https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/mask1.PNG" width="500"> <img src="https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/mask3.PNG" width="500">
-<img src="[https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/mask1.PNG](https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/det1.jpg)" width="500"> <img src="[https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/mask1.PNG](https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/det2.png)" width="500">
-<img src="https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/mask1.PNG" width="500"> <img src="https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/mask1.PNG" width="500">
+<table>
+  <tr>
+    <td><img src="[path_to_image_1](https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/mask1.PNG)https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/mask1.PNG"></td>
+    <td><img src="[path_to_image_2](https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/mask3.PNG)https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/mask3.PNG"></td>
+    <td><img src="https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/det1.jpg"></td>
+    <td><img src="https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/det2.png"></td>   
+  </tr>
+</table>
 
 
 # MADE BY SUBHAJIT PATI
