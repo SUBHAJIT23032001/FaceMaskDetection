@@ -50,9 +50,12 @@ detectMask_image--> This is created for the image detection function. So that cl
   <tr>
     <td><img src="https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/det1.jpg"></td>
     <td><img src="https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/det2.png"></td>
-    <td><img src="https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/det7.jpg"></td>
-    <td><img src="![image](https://github.com/SUBHAJIT23032001/FaceMaskDetection/assets/109050396/d1d41784-f44e-4a10-8f14-dc7a522e1f68)"></td>   
+       
   </tr>
+  <tr>
+    <td><img src="https://github.com/biswa2210/MASK-DETECTION-WITH-COVID-NOTIFICATIONS/raw/master/images/det7.jpg"></td>
+    <td><img src="![image](https://github.com/SUBHAJIT23032001/FaceMaskDetection/assets/109050396/d1d41784-f44e-4a10-8f14-dc7a522e1f68)"></td>
+  </tr>   
 </table>
 
 
